@@ -1,2 +1,3 @@
 "Nicholas Reitano" 
-nreitano95@gmail.com
+reitanon@oregonstate.edu
+blue
